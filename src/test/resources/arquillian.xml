@@ -60,4 +60,7 @@
         </configuration>
     </container>
 
+    <extension qualifier="reporter">
+        <property name="report">html</property>/>
+    </extension>
 </arquillian>
